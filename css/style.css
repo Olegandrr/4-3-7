@@ -82,7 +82,7 @@
   border: none;
   background-color: transparent; 
   background-image: 
-    url("/img/Vector-7.svg"),
-    url("/img/Vector-8.svg");
+    url("../img/Vector7.svg"),
+    url("../img/Vector8.svg");
   cursor: pointer;
 }
